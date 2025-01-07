@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Saahas, a high-school senior who is passionate about climate change and technology. Check out my projects here!
+I'm Saahas, a Computer Engineering student at Georgia Tech is passionate about AI and Machine Learning. Check out my projects here!
 
 [![Saahas's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaucyBoi21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
